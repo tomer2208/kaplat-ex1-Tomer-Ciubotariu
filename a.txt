@@ -1,1 +1,2 @@
 Initial file A
+New line for file A
